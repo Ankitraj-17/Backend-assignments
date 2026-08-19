@@ -8,9 +8,9 @@ const server = http.createServer((req, res) => {
         res.writeHead(200, { 'Content-Type': 'application/json' });
         const studentData = {
             id: 101,
-            name: "John",
-            course: "BCA",
-            semester: 4,
+            name: "Ankitraj jha",
+            course: "Btech",
+            semester: 3,
             city: "Mumbai"
         };
         res.end(JSON.stringify(studentData, null, 2));
