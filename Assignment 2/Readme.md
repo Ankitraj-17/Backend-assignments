@@ -1,5 +1,5 @@
 ### ASSIGNMENT 2.1 
-<img width="1470" height="956" alt="Screenshot 2026-08-17 at 9 58 50 PM" src="https://github.com/user-attachments/assets/c0f9f20e-5266-4ae3-bca8-d941ed255e76" />
+
 
 ### ASSIGNMENT 2.2
 <img width="920" height="602" alt="Screenshot 2026-08-17 at 10 05 51 PM" src="https://github.com/user-attachments/assets/525763a4-bef3-43d7-9521-aa1088d7c0ad" />
