@@ -13,7 +13,7 @@ const server = http.createServer((req, res) => {
     <hr>
     <p><strong>Name:</strong> Ankitraj Jha</p>
     <p><strong>Course:</strong> Full Stack Development</p>
-    <p><strong>College:</strong> XYZ College</p>
+    <p><strong>College:</strong> itm College</p>
     <br>
     <p>Welcome to our Node.js application.</p>
 </body>
