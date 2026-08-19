@@ -47,7 +47,7 @@ console.log("Goal: Developer");
 1. Open your terminal or command prompt.
 2. Navigate to the project directory:
    ```bash
-   cd NodeJS-Basics-Assignment
+   cd Assignment 3 
    ```
 3. Run the individual programs using Node.js:
    - For Task 1:
@@ -65,7 +65,7 @@ console.log("Goal: Developer");
 
 | Action | Command |
 | --- | --- |
-| Change directory | `cd NodeJS-Basics-Assignment` |
+| Change directory | `cd Assignment 3` |
 | Run Task 1 | `node app.js` |
 | Run Task 2 | `node introduction.js` |
 
@@ -78,6 +78,9 @@ console.log("Goal: Developer");
 Hello, Node.js!
 I am learning backend development
 ```
+<img width="856" height="222" alt="Screenshot 2026-08-19 at 10 04 17 AM" src="https://github.com/user-attachments/assets/6304fb0f-3304-42c6-8015-47d0071c324c" />
+
+
 
 ### Output for `introduction.js`:
 ```text
@@ -86,3 +89,5 @@ Education: B.Tech
 Current Learning: Node.js
 Goal: Developer
 ```
+<img width="880" height="214" alt="Screenshot 2026-08-19 at 10 04 37 AM" src="https://github.com/user-attachments/assets/907ecd30-1134-4799-b140-ad06948ec7b9" />
+
