@@ -1,3 +1,3 @@
-Name: Ankit Raj Jha
+Name: Ankitraj Jha
 Course: Full Stack Development
 Technology: Node.js

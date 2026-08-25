@@ -1,6 +1,5 @@
 const fs = require('fs');
 
-
 const initialContent = `Name: Ankitraj Jha
 Course: Full Stack Development
 Technology: Node.js`;
@@ -12,7 +11,6 @@ fs.writeFile('student.txt', initialContent, (err) => {
   }
   console.log('File created successfully');
 
- 
   fs.readFile('student.txt', 'utf8', (err, data) => {
     if (err) {
       console.error('Error reading file:', err);
@@ -21,8 +19,7 @@ fs.writeFile('student.txt', initialContent, (err) => {
     console.log('\n--- Student Details ---');
     console.log(data);
 
-
-    const additionalContent = '\nExperience: 1 Year\nCity: Kolkata';
+    const additionalContent = '\nExperience: 2 Year\nCity: mumbai';
 
     fs.appendFile('student.txt', additionalContent, (err) => {
       if (err) {
@@ -31,7 +28,6 @@ fs.writeFile('student.txt', initialContent, (err) => {
       }
       console.log('\nData updated successfully');
 
-      
       fs.rename('student.txt', 'studentDetails.txt', (err) => {
         if (err) {
           console.error('Error renaming file:', err);
