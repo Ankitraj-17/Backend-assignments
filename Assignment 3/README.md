@@ -1,16 +1,41 @@
-### ASSIGNMENT 3.1 
+# Assignment 3: Node.js File System Module
+
+## Description
+This assignment performs file management operations using Node.js core `fs` module.
+
+## Tasks Implemented
+1. **Task 1 (fs.writeFile)**: Creates `student.txt` containing name, course, and technology.
+2. **Task 2 (fs.readFile)**: Reads and prints the contents of `student.txt` with error handling.
+3. **Task 3 (fs.appendFile)**: Appends experience and city details to the existing file.
+4. **Task 4 (fs.rename)**: Renames `student.txt` to `studentDetails.txt`.
+5. **Task 5 (fs.unlink)**: Deletes `studentDetails.txt`.
+
+## How to Run
+
+1. Open terminal in project directory:
+   ```bash
+   cd "Assignment 3"
+   ```
+
+2. Run the script:
+   ```bash
+   node index.js
+   ```
+
+## Expected Output
+
+```text
+File created successfully
+
+--- Student Details ---
+Name: Ankitraj Jha
+Course: Full Stack Development
+Technology: Node.js
+
+Data updated successfully
+File renamed from student.txt to studentDetails.txt
+File studentDetails.txt deleted successfully
+```
 
 
-### ASSIGNMENT 3.2
-<img width="920" height="602" alt="Screenshot 2026-08-17 at 10 05 51 PM" src="https://github.com/user-attachments/assets/525763a4-bef3-43d7-9521-aa1088d7c0ad" />
-
-### ASSIGNMENT 3.3
-<img width="1470" height="956" alt="Screenshot 2026-08-17 at 10 06 46 PM" src="https://github.com/user-attachments/assets/1db09fd2-edc2-41a6-9e78-ea45a2ea1d93" />
-
-### ASSIGNMENT 3.4
-<img width="1470" height="956" alt="Screenshot 2026-08-17 at 10 07 43 PM" src="https://github.com/user-attachments/assets/32cc4a97-20ac-4633-a95d-39098fda10fe" />
-<img width="1470" height="956" alt="Screenshot 2026-08-17 at 10 07 21 PM" src="https://github.com/user-attachments/assets/c8ff252f-1dd5-4681-be6c-68b6307d6682" />
-
-
-### ASSIGNMENT 3.5
-<img width="1470" height="956" alt="Screenshot 2026-08-17 at 10 08 08 PM" src="https://github.com/user-attachments/assets/bea3f487-bff7-49dc-9ad4-461b8a5c6b52" />
+<img width="705" height="209" alt="Screenshot 2026-08-25 at 10 24 29 PM" src="https://github.com/user-attachments/assets/ebf3c271-1175-4160-83fa-53fd08f4ac7a" />
