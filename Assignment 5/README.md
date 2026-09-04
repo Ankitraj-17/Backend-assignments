@@ -88,7 +88,7 @@ GET /search?name=john
 
 4. **`GET http://localhost:3000/user/john`**
    ```
-   Hello john
+   Hello Ankitraj
    ```
 
 5. **`GET http://localhost:3000/product/101/electronics`**
