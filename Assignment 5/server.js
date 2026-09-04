@@ -12,6 +12,10 @@ app.use((req, res, next) => {
 });
 
 // Task 1: Basic Routes
+app.get('/', (req, res) => {
+    res.send('Welcome to Home Page');
+});
+
 app.get('/home', (req, res) => {
     res.send('Welcome to Home Page');
 });
