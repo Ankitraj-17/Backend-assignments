@@ -1,4 +1,4 @@
-# Express Basics Assignment
+<img width="954" height="804" alt="Screenshot 2026-09-04 at 8 59 31 PM" src="https://github.com/user-attachments/assets/f9276f38-2db4-4bc5-b083-bdbe57cfaf9f" /># Express Basics Assignment
 
 **Name:** Ankitraj Jha
 
@@ -74,29 +74,41 @@ GET /search?name=john
 1. **`GET http://localhost:3000/`**
    ```
    Welcome to Home Page
+
    ```
+   <img width="925" height="811" alt="Screenshot 2026-09-04 at 8 56 28 PM" src="https://github.com/user-attachments/assets/8e9847e1-779f-410d-aa61-27cff775e658" />
+
 
 2. **`GET http://localhost:3000/about`**
    ```
    This is About Page
    ```
+   <img width="974" height="744" alt="Screenshot 2026-09-04 at 8 58 45 PM" src="https://github.com/user-attachments/assets/d657f6b8-d87f-4677-b5f5-33d3580f5db1" />
+
 
 3. **`GET http://localhost:3000/contact`**
    ```
    This is Contact Page
    ```
+   <img width="974" height="822" alt="Screenshot 2026-09-04 at 8 59 08 PM" src="https://github.com/user-attachments/assets/496ff03e-6a68-449f-8f82-2bebdf100c8c" />
 
-4. **`GET http://localhost:3000/user/john`**
+
+4. **`GET http://localhost:3000/user/Ankitraj`**
    ```
    Hello Ankitraj
    ```
+   <img width="937" height="786" alt="Screenshot 2026-09-04 at 8 59 50 PM" src="https://github.com/user-attachments/assets/33f67274-87a4-4067-a978-d72eea924b35" />
+
 
 5. **`GET http://localhost:3000/product/101/electronics`**
    ```
    Product ID: 101, Category: electronics
    ```
+<img width="1033" height="799" alt="Screenshot 2026-09-04 at 9 00 16 PM" src="https://github.com/user-attachments/assets/98710f48-60d4-4d59-8977-f83b2aa230f2" />
 
-6. **`GET http://localhost:3000/search?name=john&role=developer`**
+6. **`GET http://localhost:3000/search?name=Ankitraj&role=developer`**
    ```
-   Name: john, Role: developer
+   Name: Ankitraj, Role: developer
    ```
+   <img width="941" height="802" alt="Screenshot 2026-09-04 at 9 01 16 PM" src="https://github.com/user-attachments/assets/988a61fa-bf5e-43bf-b083-28ef9329344a" />
+
