@@ -1,0 +1,12 @@
+{
+    "name": "assignment-six-router-middleware",
+    "version": "1.0.0",
+    "description": "Assignment 6: Express router-level middleware",
+    "main": "assignment_six.js",
+    "scripts": {
+        "start": "node assignment_six.js"
+    },
+    "dependencies": {
+        "express": "^4.19.2"
+    }
+}
