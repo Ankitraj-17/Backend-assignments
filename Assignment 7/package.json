@@ -1,0 +1,16 @@
+{
+  "name": "assignment-7",
+  "version": "1.0.0",
+  "description": "Assignment 7: Route Parameters and Query Parameters in Express.js",
+  "author": "Ankitraj Jha",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js",
+    "serve": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
