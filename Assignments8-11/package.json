@@ -1,0 +1,20 @@
+{
+  "name": "assignments-8-11",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Solutions for Node.js assignments 8 through 11",
+  "scripts": {
+    "assignment8": "node assignment8/server.js",
+    "assignment9": "node assignment9/server.js",
+    "assignment10": "node assignment10/server.js",
+    "assignment11": "node assignment11/server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "firebase-admin": "^13.0.1",
+    "joi": "^17.13.3",
+    "mongoose": "^8.9.5"
+  }
+}
