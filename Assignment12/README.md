@@ -89,7 +89,7 @@ npm test
   {
     "name": "Ankit",
     "email": "Ankit@gmail.com",
-    "password": "Rahul@123"
+    "password": "Ankit@123"
   }
   ```
 - **Success Response (201 Created)**:
