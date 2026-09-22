@@ -164,7 +164,7 @@ The assignment requires 8 specific screenshots for submission:
 
 ---
 
-## 📦 Deliverables Checklist (Grading Rubric: 10 Marks)
+## 📦 Deliverables Checklist
 
 - [x] **Express server, project setup & User Schema (1 Mark)**: `server.js`, `package.json`, `models/User.js`
 - [x] **MongoDB Atlas integration (1 Mark)**: `config/db.js` with Mongoose connecting to Atlas via `.env`
