@@ -87,8 +87,8 @@ npm test
 - **Body**:
   ```json
   {
-    "name": "Rahul",
-    "email": "rahul@example.com",
+    "name": "Ankit",
+    "email": "Ankit@gmail.com",
     "password": "Rahul@123"
   }
   ```
@@ -111,7 +111,7 @@ npm test
 - **Body**:
   ```json
   {
-    "email": "rahul@example.com",
+    "email": "ankit@gmail.com",
     "password": "Rahul@123"
   }
   ```
