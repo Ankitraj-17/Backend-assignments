@@ -138,7 +138,7 @@ npm test
     "message": "Welcome to your private profile",
     "user": {
       "id": "65fc1234567890abcdef1234",
-      "email": "rahul@example.com"
+      "email": "Ankit@gmail.com"
     }
   }
   ```
